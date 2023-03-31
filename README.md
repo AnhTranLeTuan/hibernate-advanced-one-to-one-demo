@@ -3,7 +3,7 @@
 ## Description
 Experiment with concepts of Hibernate, ORM (Object–relational mapping), and one-to-one mapping. In this project, we can see how:
 * Configure Hibernate in the XML file
-* Create entities in which this Java class or its objects will be mapped to the database's table
+* Create entities in which Java classes or their objects will be mapped to the database's table
 * Establish one-to-one mapping between entities
 * Map objects to tables of MySQL
 * Test the unidirectional relationship between two entities
